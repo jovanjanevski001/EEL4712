@@ -16,4 +16,5 @@
   
 2. Schematic capture and simualte an 8-bit counter.
    - Use Quartus graphical editor to create a .bdf file called counter.bdf that contains the design of an 8-bit counter that functions as follows:
-     - clr_n
+     - clr_n   |  ld_n  |  enable   |  Function
+        0          
