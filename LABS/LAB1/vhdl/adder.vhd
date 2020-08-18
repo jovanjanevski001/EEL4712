@@ -3,7 +3,7 @@
 -- University of Florida
 
 -- This is a structural model of a 4 bit ripple-carry adder
---	using 4 1-bit full adders
+--	using 4 1-bit full adders.
 
 library ieee;
 use ieee.std_logic_1164.all;
